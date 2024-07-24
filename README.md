@@ -1,7 +1,7 @@
 
 
 <p href="https://discord.com/users/1006460398242902167" align="center" width="1000px">
-    <img src="https://lanyard.cnrad.dev/api/1006460398242902167?borderRadius=30px"/>
+    <img src="https://lanyard.cnrad.dev/api/1006460398242902167?borderRadius=30px"showDisplayName=true/>
 </p>
 
 ```python
