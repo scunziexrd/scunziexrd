@@ -13,7 +13,7 @@ class Attributes(scunzie):
 
         :return: Discord channel link
         """
-        discord = "https://discord.gg/1310"
+        discord = "https://discord.gg/x1948"
         return discord
 
     @staticmethod
